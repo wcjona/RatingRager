@@ -1,0 +1,3576 @@
+Querying center: (50.8429, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.07402)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.05854)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.04306)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.02758)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -113.99662)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -113.96566)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -113.95018)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.8429, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.07402)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.05854)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.04306)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -113.99662)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -113.96566)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -113.95018)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.85445333333333, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.07402)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.05854)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -113.99662)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -113.96566)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -113.95018)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.866006666666664, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.07402)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.05854)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.04306)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.87756, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -113.99662)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.87756, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.87756, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.87756, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.04306)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.02758)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -113.99662)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -113.93469999999999)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.889113333333334, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.02758)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -113.99662)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -113.96566)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -113.93469999999999)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.900666666666666, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.02758)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -113.99662)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.91222, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.91222, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.91222, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -113.99662)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.92377333333334, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -113.99662)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.93532666666667, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.13594)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.12046000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.10498)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.04306)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.02758)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.94688, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -113.96566)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -113.95018)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.94688, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.13594)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.12046000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.04306)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.02758)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -113.96566)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -113.95018)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.95843333333333, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.10498)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -113.96566)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -113.95018)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.96998666666667, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.98154, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.98154, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.98154, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.98154, -113.95018)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.98154, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (50.993093333333334, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.1669)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.13594)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.12046000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.02758)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -113.95018)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.004646666666666, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.18238000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.1669)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.15142)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.13594)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.12046000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.10498)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.0162, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -113.99662)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -113.96566)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -113.95018)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.0162, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.18238000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.1669)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.15142)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.13594)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.12046000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.10498)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.02775333333334, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.21334)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.19786)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.18238000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.1669)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.15142)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.13594)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.12046000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.10498)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.03930666666667, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.21334)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.19786)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.15142)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.13594)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.10498)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.05086, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.05086, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.22882)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.21334)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.19786)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.1669)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.15142)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.12046000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.10498)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -113.93469999999999)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.06241333333333, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.21334)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.19786)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.18238000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.1669)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.15142)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.13594)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.12046000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.10498)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.07396666666667, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.22882)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.21334)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.19786)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.18238000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.1669)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.15142)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.13594)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.12046000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.10498)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.08552, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (51.08552, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.08552, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.08552, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.08552, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.22882)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.21334)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.18238000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.1669)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.15142)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.13594)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.12046000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.097073333333334, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.15142)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -113.99662)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.108626666666666, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.21334)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.19786)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.18238000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.07402)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.02758)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -113.93469999999999)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.120180000000005, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.21334)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.19786)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.18238000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.04306)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.02758)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -113.93469999999999)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.13173333333334, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.21334)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.19786)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.13594)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.04306)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.02758)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.14328666666667, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.22882)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.21334)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.19786)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.1669)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.15142)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.13594)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.12046000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.10498)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.04306)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.02758)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -114.0121)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -113.99662)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -113.98114)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -113.96566)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -113.93469999999999)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.15484, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.15484, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.1669)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.15142)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.13594)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.12046000000001)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.10498)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.0895)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.07402)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.05854)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.04306)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.02758)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -113.99662)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -113.96566)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -113.95018)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.16639333333334, -113.87277999999999)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.3217)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.30622000000001)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.29074)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.27526)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.25978)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.24430000000001)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.22882)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.21334)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.19786)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.18238000000001)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.1669)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.15142)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.13594)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.12046000000001)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.10498)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.0895)
+Grid Number:
+Query Number:
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.07402)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.05854)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.04306)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.02758)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -114.0121)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -113.99662)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -113.98114)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -113.96566)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -113.95018)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -113.93469999999999)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -113.91922)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -113.90374)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -113.88826)
+Grid Number:
+Query Number:
+Querying center: (51.17794666666667, -113.87277999999999)
+Grid Number:
+Query Number:
