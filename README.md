@@ -40,5 +40,5 @@ https://github.com/michaeltreat/Mongo_CheatSheet
 
 SQLite3 Terminal:
 ```
-sqlite3 ratingRager.db
+sqlite3 data/ratingRager.db
 ```
