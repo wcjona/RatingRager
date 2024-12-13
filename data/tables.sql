@@ -23,6 +23,7 @@ CREATE TABLE scores (
     sentiment_score REAL,
     trend_score REAL,
     location_score REAL,
-    overall_rating REAL,
-    price_score REAL
+    rating_score REAL,
+    price_score REAL,
+    overall_score REAL
 );
