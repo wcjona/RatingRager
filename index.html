@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Rankings</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<script>
+    fetch('rankings.json')
+    .then(response => response.json())
+    .then(data => {
+        const list = document.getElementById('rankings-list');
+        data.forEach(restaurant => {
+            const li = document.createElement('li');
+            li.textContent = `${restaurant.name} - ${restaurant.rating} stars`;
+            list.appendChild(li);
+        });
+    });
+</script>
+
+<body>
+    <h1>Top Restaurant Rankings</h1>
+    <a href="scores/map.html">Map</a>
+    <p>Welcome to the restaurant rankings page. Below are the top restaurants based on our scoring system:</p>
+
+    <ul id="rankings-list"></ul>
+
+</body>
+</html>

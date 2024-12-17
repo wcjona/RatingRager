@@ -7,6 +7,7 @@ CREATE TABLE restaurants (
     latitude REAL,
     longitude REAL,
     price_level INTEGER,
+    ranking INTEGER,
 );
 
 CREATE TABLE reviews (
