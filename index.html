@@ -4,27 +4,57 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Restaurant Rankings</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
-<script>
-    fetch('rankings.json')
-    .then(response => response.json())
-    .then(data => {
-        const list = document.getElementById('rankings-list');
-        data.forEach(restaurant => {
-            const li = document.createElement('li');
-            li.textContent = `${restaurant.name} - ${restaurant.rating} stars`;
-            list.appendChild(li);
-        });
-    });
-</script>
-
 <body>
-    <h1>Top Restaurant Rankings</h1>
-    <a href="scores/map.html">Map</a>
-    <p>Welcome to the restaurant rankings page. Below are the top restaurants based on our scoring system:</p>
+    <h1>Rating Rager: Uncovering Hot Spots and Hidden Gems in Calgary Dining</h1>
+    <p>Made by <a href="https://www.linkedin.com/in/jonathanchongyyc/">Jonathan Chong</a></p>
+    <a id="map-link" href="scores/map.html">Top 500 Restaurants in Maps</a>
+    <p>Welcome Rating Ragers, a list of the best under-represented restaurants in Calgary based on statistics.</p>
+
 
     <ul id="rankings-list"></ul>
 
+    <script>
+        fetch('rankings.json')
+        .then(response => response.json())
+        .then(data => {
+            const list = document.getElementById('rankings-list');
+            data.forEach(restaurant => {
+                const row = document.createElement('p');
+                const encodedAddress = encodeURIComponent(restaurant.name + " " + restaurant.address);
+                const mapsURL = "https://www.google.com/maps?q=" + encodedAddress;
+
+                const dropdownBtn = document.createElement('button');
+                dropdownBtn.classList.add('dropdown-btn');
+                dropdownBtn.textContent = "View Details";
+
+                const dropdownContent = document.createElement('div');
+                dropdownContent.classList.add('dropdown-content');
+                dropdownContent.innerHTML = `
+                    <p><strong>Address:</strong> ${restaurant.address}</p>
+                    <p><strong>Sentiment Score:</strong> ${(restaurant.sentiment_score * 5).toFixed(2)} Stars</p>
+                    <p><strong>Trend Score:</strong> ${(restaurant.trend_score * 5).toFixed(2)} Stars</p>
+                    <p><strong>Location Score:</strong> ${(restaurant.location_score * 5).toFixed(2)} Stars</p>
+                    <p><strong>Rating Score:</strong> ${(restaurant.rating_score * 5).toFixed(2)} Stars</p>
+                    <p><strong>Price Score:</strong> ${(restaurant.price_score * 5).toFixed(2)} Stars</p>
+                    <p><strong>Uniqueness Score:</strong> ${(restaurant.uniqueness_score * 5).toFixed(2)} Stars</p>
+                    <p><strong>Overall Score:</strong> ${(restaurant.overall_score * 5).toFixed(2)} Stars</p>
+                `;
+
+                dropdownBtn.addEventListener('click', () => {
+                    dropdownContent.classList.toggle('show');
+                });
+
+                row.innerHTML = `${restaurant.ranking}. <a href="${mapsURL}" target="_blank">${restaurant.name} (${(restaurant.overall_score * 5 ).toFixed(2)} Stars)</a>`;
+                row.appendChild(dropdownBtn);
+                row.appendChild(dropdownContent);
+
+                list.appendChild(row);
+            });
+        });
+    </script>
 </body>
+
+<footer>Made by <a href="https://www.linkedin.com/in/jonathanchongyyc/">Jonathan Chong</a></footer>
 </html>
